@@ -1,0 +1,10 @@
+cara installasine lurrr
+1.exstract file elearn.zip di folder xampp/htdocs/
+2.buat database elearn di phpmyadmin
+3.buka folder elearn di code editor
+4.run terminal:
+	php artisan migrate --seed
+	php artisan serve
+5.buka dibrowser sesuai url.
+
+ganbateeeee!!!
